@@ -17,3 +17,7 @@ System Name: ip-172-31-23-24.us-east-2.compute.internal
 Linux Redhat 3
 IP: 172.31.22.97
 System Name: ip-172-31-22-97.us-east-2.compute.internal
+
+Windows 3
+IP: 172.31.29.50
+System Name: EC2AMAZ-6DHRT68
