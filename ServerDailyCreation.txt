@@ -6,3 +6,14 @@ Windows 2
 IP 172.31.18.225
 System Name:  EC2AMAZ-D7RHBIV
 
+Linux RedHat 1
+IP: 172.31.22.82
+System Name: ip-172-31-22-82.us-east-2.compute.internal
+
+Linux RedHat 2
+iP: 172.31.23.24
+System Name: ip-172-31-23-24.us-east-2.compute.internal
+
+Linux Redhat 3
+IP: 172.31.22.97
+System Name: ip-172-31-22-97.us-east-2.compute.internal
